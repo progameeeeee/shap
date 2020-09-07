@@ -10,8 +10,8 @@
     margin: auto;
 }
 #character{
-    width: 20px;
-    height: 23px;
+    width: 50px;
+    height: 58px;
     background-Image: url(gingerman2.png);
     position:relative;
     top: 150px;
