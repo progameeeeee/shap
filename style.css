@@ -12,7 +12,7 @@
 #character{
     width: 20px;
     height: 23px;
-    background-color: red;
+    background-Image: url(gingerman2.png):
     position:relative;
     top: 150px;
 }
