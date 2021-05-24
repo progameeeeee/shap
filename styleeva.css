@@ -1,0 +1,110 @@
+
+
+.q1{
+   
+  left: 725px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  
+  position: relative;
+  bottom: -335px;
+  animation: move1 6s infinite;
+}
+
+@keyframes move1 {
+  50%{
+    transform: rotate(-360deg);
+    bottom: -215px;
+    left: 605px;
+    border-radius: 50%;
+  }
+  
+}
+
+.q2{
+   
+  left: 755px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  
+  position: relative;
+  bottom: -335px;
+  animation: move2 6s infinite;
+}
+
+@keyframes move2 {
+  50%{
+    transform: rotate(-360deg);
+    bottom: -455px;
+    left: 875px;
+    border-radius: 50%;
+  }
+
+}
+
+.q3{
+   
+  left: 755px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  
+  position: relative;
+  bottom: -275px;
+  animation: move3 6s infinite;
+}
+
+@keyframes move3 {
+  50%{
+    transform: rotate(-360deg);
+    bottom: -155px;
+    left: 875px;
+    border-radius: 50%;
+  }
+
+}
+
+
+.q4{
+   
+  left: 725px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  
+  position: relative;
+  bottom: -275px;
+  animation: move4 6s infinite;
+}
+
+@keyframes move4 {
+  50%{
+    transform: rotate(-360deg);
+    bottom: -395px;
+    left: 605px;
+    border-radius: 50%;
+  }
+
+}
+
+.q5{
+   
+  left: 740px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  
+  position: relative;
+  bottom: -235px;
+  animation: move5 6s infinite;
+}
+
+@keyframes move5 {
+  50%{
+    transform: rotate(360deg);
+    border-radius: 50%;
+  }
+
+}
